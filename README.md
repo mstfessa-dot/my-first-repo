@@ -18,3 +18,17 @@ Learn how to:
 
 ## 👤 Author
 Mostafa
+---
+
+## 🌍 Online CV
+This CV is published live using GitHub Pages.
+
+🔗 Live URL:
+https://mstfessa-dot.github.io/my-first-repo/
+
+---
+
+## 🚀 Next Steps
+- Improve CV design
+- Add real projects
+- Learn HTML & CSS
